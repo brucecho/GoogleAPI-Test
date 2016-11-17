@@ -1,0 +1,44 @@
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google API TEST.exe.config
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google API TEST.exe
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google API TEST.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google API TEST.csprojResolveAssemblyReference.cache
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google_API_TEST.Properties.Resources.resources
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google API TEST.csproj.GenerateResource.Cache
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google API TEST.exe
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google API TEST.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\BouncyCastle.Crypto.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Auth.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Core.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Oauth2.v2.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.PlatformServices.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\log4net.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Newtonsoft.Json.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Zlib.Portable.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Auth.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Auth.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Core.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Core.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Oauth2.v2.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.Oauth2.v2.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.PlatformServices.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\log4net.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Newtonsoft.Json.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Zlib.Portable.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google_API_TEST.MainForm.resources
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google_API_TEST.OAuth2Test.resources
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.YouTubeAnalytics.v1.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.YouTubeAnalytics.v1.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.YouTubeAnalytics.v1.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google_API_TEST.YoutubeAPITest.resources
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.YouTube.v3.dll
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.YouTube.v3.pdb
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\Google.Apis.YouTube.v3.xml
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\bin\Debug\client_secrets.json
+D:\CSworkplace\VS2015\Google API TEST\Google API TEST\obj\Debug\Google_API_TEST.YoutubeAnalyticsTest.resources
